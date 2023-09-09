@@ -1,0 +1,309 @@
+.fond {
+    
+
+    
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 100vh;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 20%;
+    background-position-y: 19%;
+    }
+
+
+.message{
+    height: 60vh;
+}
+
+
+
+.inputrecherche{
+    margin-left: 150px;
+    text-decoration: none;
+    
+    border: 2px black solid;
+    background-color: white;
+}
+.buttonrecherche{
+    
+    text-decoration: none!important;
+    background-color:wheat;
+    border: none;
+    
+}
+
+.buttonrecherche1{
+    
+    text-decoration: none!important;
+    background-color:white;
+    border: none;
+    
+}
+
+.logo{
+    width: 160px;
+}
+
+.ballon {
+
+    top:-14%;
+    left:50%;
+}
+
+.logbal{
+    top:-3%;
+    left:69%;
+    width: 85px!important;
+}
+
+.slogan{
+    
+    margin-top: 13%;
+}
+
+.nav {
+    font-size: 20px;
+}
+
+
+
+footer{
+    height: 40px;
+    background-color: black;
+   
+   
+}
+.pFooter {
+    margin: 0px!important;
+}
+.admin{
+    margin-left: 81vh!important;
+    background-color: black;
+    border-bottom-left-radius: 20px;
+    
+}
+
+.fa{
+    
+    font-size: 25px!important;
+    text-decoration: none;
+}
+
+.clique{
+    border:2px solid white!important;
+}
+
+.main{
+    font-size: 31px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+.produits{
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 590px;
+    height: 244px;
+    
+    
+}
+
+.boutton {
+    border: 5px solid black!important;
+    background-color: black!important;
+
+}
+
+.section2{
+    background-color: wheat;
+}
+
+
+
+
+.imgArticle{
+    width: 290px!important;
+    
+   
+    
+}
+
+.test5{
+      background-color: black!important;
+}
+
+.btnvendu{
+    background-color: crimson!important;
+    margin-left: 60vh;
+    
+}
+
+.btncommander{
+    
+    margin-left: 60vh;
+}
+
+
+.navprod{
+    margin-right: 125px!important;
+}
+
+
+.president{
+    height:480px!important;
+    
+}
+
+.backheadprod{
+    background-color: black;
+    
+    
+}
+
+.alaune{
+    background-color: black;
+    background-size: cover;
+    width: 200px!important;
+    border-radius: 3px;
+}
+
+.slogan2{
+    left:5%;
+    bottom: 10%;
+    font-size: 30px!important;
+}
+
+.categorie{
+    font-size: 30px!important;
+    
+}
+
+.sectionMarque{
+    margin-top: 130px;
+}
+
+.marques{
+    height: 400px;
+    background-image: url("../img/smoke.png")!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 65%;
+    width: 101%!important;
+}
+
+.autreimg {
+    width: 250px!important;
+    
+}
+
+#lien:nth-child(1){
+    background-color: crimson!important;
+    border-top-left-radius: 10px;
+    width: 350px!important;
+    height: 200px!important;
+}
+
+
+#lien:nth-child(2){
+    background-color: black!important;
+    width: 550px!important;
+    height: 200px!important;
+    border-top-right-radius: 10px;
+}
+
+#lien:nth-child(3){
+    background-color:black!important;
+    width: 550px!important;
+    height: 200px!important;
+}
+
+#lien:nth-child(4){
+    background-color: crimson!important;
+    width: 350px!important;
+    height: 200px!important;
+}
+
+#lien:nth-child(5){
+    background-color: crimson!important;
+    width: 350px;
+    height: 200px!important;
+    border-bottom-left-radius: 10px;
+}
+
+#lien:nth-child(6){
+    background-color: black!important;
+    width: 550px;
+    height: 200px!important;
+    border-bottom-right-radius: 10px;
+}
+
+.btnViewAll{
+    border-radius: 100px!important;
+    background-color: white!important;
+    
+}
+
+#arrondi{
+    width: 15px;
+    height: 15px;
+    background-color: blanchedalmond;
+    bottom:5%;
+    left:3%;
+    border-radius: 100px;
+}
+
+.boxing{
+    width: 500px;
+    
+}
+
+.sectionEnvoie{
+    margin-top: 100px;
+    
+}
+
+.envoie{
+    background-color: crimson;
+    height: 200px;
+    }
+
+.ruban{
+    top:0%;
+    width: 50px;
+}
+
+.prixVendu{
+    color: crimson;
+}
+
+.formEnvoie{
+    padding-left: 200px!important;
+}
+
+.inputRound{
+    border-radius: 100px;
+    background-color: crimson;
+    height: 50px;
+    width: 280px;
+    border-color: wheat;
+}
+
+.btnRound{
+    border-radius: 100px;
+    height: 50px;
+    width: 120px;
+    position: absolute;
+    right: 70px;
+    border: none;
+}
+
+.btnRound:hover{
+    background-color: teal;
+}
+
+.footerProd{
+    height: 48px;
+}
